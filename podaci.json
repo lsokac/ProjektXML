@@ -1,0 +1,50 @@
+[
+  {
+    "oznaka": "TOT8 3G",
+    "naziv": "Izvlačna verikalna utičnica 3x schuko 16A",
+    "cijena": "27,20€",
+    "url": "images/3g.jpg"
+  },
+  {
+    "oznaka": "TOT8 3G2U",
+    "naziv": "Izvlačna verikalna utičnica 3x schuko 16A, 2x usb 21,A",
+    "cijena": "25,53€",
+    "url": "images/4g.jpg"
+  },
+  {
+    "oznaka": "TOT8 4G",
+    "naziv": "Izvlačna verikalna utičnica 4x schuko 16A",
+    "cijena": "22,42€",
+    "url": "images/4g_2.jpg"
+  },
+  {
+    "oznaka": "30550C",
+    "naziv": "Izvlačna horizontalna utičnica 3x schuko 16A",
+    "cijena": "61,12€",
+    "url": "images/2044b.jpg"
+  },
+  {
+    "oznaka": "30570A",
+    "naziv": "Ugradna utičnica 16A + USB 5v 24A(12W)",
+    "cijena": "39,35€",
+    "url": "images/20461.jpg"
+  },
+  {
+    "oznaka": "NXD-16",
+    "naziv": "Gumeni utikač za 2,5mm žicu",
+    "cijena": "2,23€",
+    "url": "images/MXG-18.jpg"
+  },
+  {
+    "oznaka": "LNI307522CCT",
+    "naziv": "Plafonjera 12W 1200lm 3CCT(3000K/4000K/6500K)",
+    "cijena": "14,62€",
+    "url": "images/Plafonjera1.jpg"
+  },
+  {
+    "oznaka": "LNI307534CCT",
+    "naziv": "Plafonjera 24W 2400lm 3CCT(3000K/4000K/6500K)",
+    "cijena": "18,45€",
+    "url": "images/Plafonjera2.jpg"
+  }
+]

@@ -1,0 +1,56 @@
+.header-nav {
+  padding: 10px 0;
+  margin-bottom: 50px;
+  background-color: #241d1d;
+  justify-content: center;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  list-style: none;
+  padding: 10px;
+}
+
+.nav-list-link {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+img {
+  max-width: 150px;
+}
+
+th {
+  text-align: center;
+}
+
+td {
+  width: 20%;
+  text-align: center;
+}
+
+button {
+  padding: 12px 24px;
+  border: none;
+}
+
+button:hover {
+  background-color: #241d1d;
+  color: white;
+  transition: all 0.3s;
+}
+
+footer {
+  margin-top: 50px;
+  padding: 20px 0;
+  background-color: #241d1d;
+  color: white;
+  text-align: center;
+}
+
+span {
+  font-size: 20px;
+}
